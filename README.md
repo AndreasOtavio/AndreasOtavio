@@ -1,7 +1,9 @@
 
 # Otavio Andreas Rosiano
 
-https://tenor.com/bKIR2.gif
+<div>
+<img loading="lazy" height="180em" src="https://media1.tenor.com/m/VfOO-2t7eFoAAAAd/developer-tester.gif)"/>
+</div>
 
 
 ## 🚀 About me
