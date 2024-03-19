@@ -1,7 +1,7 @@
 
 # Otavio Andreas Rosiano
 
-[[<div class="tenor-gif-embed" data-postid="23489560" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/developer-tester-relationship-gif-23489560">Developer Tester GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://tenor.com/bKIR2.gif)](https://tenor.com/bKIR2.gif)
+https://tenor.com/bKIR2.gif
 
 
 ## 🚀 About me
