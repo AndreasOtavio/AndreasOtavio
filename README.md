@@ -14,8 +14,8 @@ The more I learn and the angrier I get, the more I love it all!😄
 
 
 
-## Outras seções comuns em perfis do GitHub
-👩‍💻 I currently work at Mercado Eletrônico
+## Currently
+👩‍💻 I work at Mercado Eletrônico
 
 🧠 I'm learning Spring Boot
 
