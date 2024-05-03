@@ -17,7 +17,7 @@ The more I learn and the angrier I get, the more I love it all!😄
 ## Currently
 👩‍💻 I work at Mercado Eletrônico
 
-🧠 I'm learning Spring Boot
+🧠 Currently learning more about AWS and SAP integrations
 
 ⚡️ I'm looking to collaborate in any project
 
